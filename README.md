@@ -26,11 +26,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 <hr>
@@ -162,3 +157,18 @@ Automation & Other Tools
 </div>
 
 ###
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/kaveetha-jayawardana/github-readme-stats">
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kaveetha-jayawardana&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kaveetha-jayawardana/convoychat">
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaveetha-jayawardana&layout=compact&langs_count=8&card_width=320&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
