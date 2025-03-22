@@ -1,15 +1,15 @@
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F79327&center=true&width=600&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=F79327&center=true&width=600&lines=Welcome+to+My+GitHub+Profile!" alt="Typing SVG" /> 
   <hr>  
 </div>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjltbDFqN21tMnE2azdzYzUxZ21hZzYyZHprcTd0cndnbXI1cGpyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjltbDFqN21tMnE2azdzYzUxZ21hZzYyZHprcTd0cndnbXI1cGpyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
-### 
+###
 
 <h1 align="center"> <b> </b> Kaveetha Jayawardana </b> </h1>
 <h3 align="center"> Aspiring Data Scientist | Data Enthusiast | Data Storyteller | Data Visualizer | Insight Seeker </h3> 
