@@ -150,18 +150,15 @@ Automation & Other Tools
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kaveetha-jayawardana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
 <table border="0">
   <tr>
     <td>
       <a href="https://github.com/kaveetha-jayawardana/github-readme-stats">
-        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kaveetha-jayawardana&theme=dark" />
+        <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kaveetha-jayawardana&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
       </a>
     </td>
     <td>
@@ -171,4 +168,3 @@ Automation & Other Tools
     </td>
   </tr>
 </table>
-
