@@ -67,6 +67,10 @@ Machine Learning & Data Science
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="50" alt="Pandas" />
   <img width="12" />
+  <img src= "https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"       alt="Hugging Face"/>
+  <img width="12" />
+  <img src= "https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png"    height="50" alt="Streanlit"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="65" alt="NumPy" />
   <img width="12" />
   <img src="https://www.vertica.com/python/assets/images/services/service1.png" height="50" alt="Matplotlib" />
